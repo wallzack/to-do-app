@@ -35,7 +35,7 @@ p {
   box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
 
-.btn--red {
+.btn-remove {
   background: #e74c3c;
 }
 
@@ -55,12 +55,11 @@ p {
   opacity: 1;
 }
 
-
-.tasks-section {
+.tasks {
   margin-bottom: 100px;
 }
 
-.tasks-section__list {
+.tasks-list {
   max-width: 400px;
   list-style-type: none;
   padding: 0;
