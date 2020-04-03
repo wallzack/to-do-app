@@ -31,7 +31,7 @@ io.on('connection', (socket) => {
     socket.broadcast.emit('removeTask', id);
   });
 });
-//test3
+
 app.use((req, res) => {
   res.status(404).send({ message: 'Page not found...' });
 });
