@@ -11,6 +11,6 @@
     "lodash": "^4.17.15",
     "nodemon": "^2.0.3",
     "redux-devtools-extension": "^2.13.8",
-    "socket.io": "^2.3.0"
+    "socket.io": "^3.0.0"
   }
 }
